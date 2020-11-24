@@ -28,7 +28,7 @@ body{
   text-align: center;
 }
 .row > .column {
-    width: 33%;
+    width: 50%;
     height: 100%;
     box-sizing: border-box;
     float: left;
